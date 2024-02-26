@@ -43,8 +43,8 @@ Plot the performance plot
 Evaluate the model with the testing data.
 
 ## PROGRAM
-### Name:AMURTHA VAAHINI.KN
-### Register Number:212222240008
+### Name:KAVYA K
+### Register Number:212222230065
 ```python
 import pandas as pd
 
